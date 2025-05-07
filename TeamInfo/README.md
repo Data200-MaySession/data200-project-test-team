@@ -3,7 +3,7 @@
 ## Team Information
 
 ### Team Name
-*Replace this with your team name*
+*Test Team*
 
 ### Team Members
 1. *Member 1 Manoj Gautam (Gtm0x01)*
